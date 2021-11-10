@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button{
+    padding: 5px 10px;
+    border:2px dashed #000;
+    background:darkgrey;
+    color:#000;
+    font-size: 18px;
+    border-radius: 5px;
+}
